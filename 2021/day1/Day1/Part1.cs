@@ -6,7 +6,7 @@ public static class Runner
 {
     public static void Main(string[] args)
     {
-        string textFile = "C:\\Users\\Jake Gadaleta\\source\\repos\\Advent-Of-Code\\2021\\day1\\Day1\\input.txt";
+        string textFile = @"C:\Users\Jake Gadaleta\source\repos\Advent-Of-Code\2021\day1\Day1\input.txt";
         one(textFile);
         two(textFile);
     }
