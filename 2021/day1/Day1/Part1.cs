@@ -7,6 +7,7 @@ public static class Runner
     public static void Main(string[] args)
     {
         string textFile = "C:\\Users\\Jake Gadaleta\\source\\repos\\Advent-Of-Code\\2021\\day1\\Day1\\input.txt";
+        one(textFile);
         two(textFile);
     }
 
@@ -28,7 +29,7 @@ public static class Runner
                 current = int.Parse(ln);
             }
             file.Close();
-            Console.WriteLine(counter);
+            Console.WriteLine($"total increases: {counter}");
         }
     }
 
@@ -50,13 +51,13 @@ public static class Runner
             int a = values[i] + values[i+1] + values[i+2];
             int b = values[i + 3] + values[i + 1] + values[i + 2];
 
-            if(b < a)
+            if(a < b)
             {
                 count += 1;
             }
         }
 
-        Console.WriteLine(count);
+        Console.WriteLine($"3 window has: {count} increases");
 
     }
 }
