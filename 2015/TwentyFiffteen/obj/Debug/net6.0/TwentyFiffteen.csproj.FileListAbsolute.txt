@@ -1,0 +1,15 @@
+C:\Users\jgadaleta\source\repos\Advent-Of-Code\2015\TwentyFiffteen\bin\Debug\net6.0\TwentyFiffteen.exe
+C:\Users\jgadaleta\source\repos\Advent-Of-Code\2015\TwentyFiffteen\bin\Debug\net6.0\TwentyFiffteen.deps.json
+C:\Users\jgadaleta\source\repos\Advent-Of-Code\2015\TwentyFiffteen\bin\Debug\net6.0\TwentyFiffteen.runtimeconfig.json
+C:\Users\jgadaleta\source\repos\Advent-Of-Code\2015\TwentyFiffteen\bin\Debug\net6.0\TwentyFiffteen.dll
+C:\Users\jgadaleta\source\repos\Advent-Of-Code\2015\TwentyFiffteen\bin\Debug\net6.0\ref\TwentyFiffteen.dll
+C:\Users\jgadaleta\source\repos\Advent-Of-Code\2015\TwentyFiffteen\bin\Debug\net6.0\TwentyFiffteen.pdb
+C:\Users\jgadaleta\source\repos\Advent-Of-Code\2015\TwentyFiffteen\obj\Debug\net6.0\TwentyFiffteen.csproj.AssemblyReference.cache
+C:\Users\jgadaleta\source\repos\Advent-Of-Code\2015\TwentyFiffteen\obj\Debug\net6.0\TwentyFiffteen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgadaleta\source\repos\Advent-Of-Code\2015\TwentyFiffteen\obj\Debug\net6.0\TwentyFiffteen.AssemblyInfoInputs.cache
+C:\Users\jgadaleta\source\repos\Advent-Of-Code\2015\TwentyFiffteen\obj\Debug\net6.0\TwentyFiffteen.AssemblyInfo.cs
+C:\Users\jgadaleta\source\repos\Advent-Of-Code\2015\TwentyFiffteen\obj\Debug\net6.0\TwentyFiffteen.csproj.CoreCompileInputs.cache
+C:\Users\jgadaleta\source\repos\Advent-Of-Code\2015\TwentyFiffteen\obj\Debug\net6.0\TwentyFiffteen.dll
+C:\Users\jgadaleta\source\repos\Advent-Of-Code\2015\TwentyFiffteen\obj\Debug\net6.0\ref\TwentyFiffteen.dll
+C:\Users\jgadaleta\source\repos\Advent-Of-Code\2015\TwentyFiffteen\obj\Debug\net6.0\TwentyFiffteen.pdb
+C:\Users\jgadaleta\source\repos\Advent-Of-Code\2015\TwentyFiffteen\obj\Debug\net6.0\TwentyFiffteen.genruntimeconfig.cache
