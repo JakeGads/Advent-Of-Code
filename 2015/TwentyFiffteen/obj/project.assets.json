@@ -8,28 +8,20 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jgadaleta\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Jake Gadaleta\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jgadaleta\\source\\repos\\Advent-Of-Code\\2015\\TwentyFiffteen\\TwentyFiffteen.csproj",
+      "projectUniqueName": "C:\\Users\\Jake Gadaleta\\source\\repos\\Advent-Of-Code\\2015\\TwentyFiffteen\\TwentyFiffteen.csproj",
       "projectName": "TwentyFiffteen",
-      "projectPath": "C:\\Users\\jgadaleta\\source\\repos\\Advent-Of-Code\\2015\\TwentyFiffteen\\TwentyFiffteen.csproj",
-      "packagesPath": "C:\\Users\\jgadaleta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jgadaleta\\source\\repos\\Advent-Of-Code\\2015\\TwentyFiffteen\\obj\\",
+      "projectPath": "C:\\Users\\Jake Gadaleta\\source\\repos\\Advent-Of-Code\\2015\\TwentyFiffteen\\TwentyFiffteen.csproj",
+      "packagesPath": "C:\\Users\\Jake Gadaleta\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jake Gadaleta\\source\\repos\\Advent-Of-Code\\2015\\TwentyFiffteen\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\jgadaleta\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Jake Gadaleta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
